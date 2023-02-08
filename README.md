@@ -1,1 +1,1 @@
-# Daily_Journal-Blog-Site-
+# MernStack-Blog-App
